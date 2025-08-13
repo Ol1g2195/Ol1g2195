@@ -47,7 +47,10 @@
   <img height="165" src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
 </p>
 
----
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ol1g2195&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ## 🚀 О себе
 - 🖥 Разрабатываю **backend-сервисы** на Go, Python, Django, FastAPI  
@@ -61,11 +64,6 @@
 - 🐘 Иногда работаю с PHP и CMS  
 
 ---
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ol1g2195&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
 
 ## 📫 Контакты
 <p align="center">
