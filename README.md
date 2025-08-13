@@ -62,6 +62,11 @@
 
 ---
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ol1g2195&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
 ## 📫 Контакты
 <p align="center">
   <a href="mailto:your.email@example.com">
