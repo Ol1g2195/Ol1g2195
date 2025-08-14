@@ -40,38 +40,32 @@
 <table align="center">
 <tr>
 <td align="center">
-  <!-- GitHub Общая статистика -->
-  <img height="165" width="400"
-       src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true"
+       width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 <td align="center">
-  <!-- Топ языки -->
-  <img height="165" width="400"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+       width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 </tr>
 <tr>
 <td align="center">
-  <!-- GitHub Streak -->
-  <img height="165" width="400"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
+       width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 <td align="center">
-  <!-- GitHub Contributor Stats -->
-  <img height="165" width="400"
-       src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+       width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 </tr>
 <tr>
 <td align="center">
-  <!-- LeetCode карточка -->
-  <img height="165" width="400"
-       src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest"
+       width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 <td align="center">
-  <!-- Codewars кастомный бейдж -->
-  <img height="165" width="400"
-       src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000" alt="Codewars Badge" />
+  <img src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000"
+       width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 </tr>
 </table>
