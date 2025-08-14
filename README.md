@@ -37,7 +37,7 @@
 
 ## 📊 Статистика
 
-<table align="center">
+<table align="center" style="background-color:#1a1b27; border-radius:10px; padding:10px;">
 <tr>
 <td align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true"
@@ -54,7 +54,7 @@
        width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 <td align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27"
        width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 </tr>
