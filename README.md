@@ -36,7 +36,7 @@
 ---
 
 ## 📊 Статистика
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; background-color: transparent; width: 100%;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
 <tr>
 <td align="center" valign="middle" style="background-color: #0D1117;">
 
