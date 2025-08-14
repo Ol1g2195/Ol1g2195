@@ -37,10 +37,10 @@
 
 ## 📊 Статистика
 
-<table style="border: none; border-collapse: collapse; background-color: transparent;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; background-color: transparent;">
 <tr>
 <td>
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
 
 </td>
@@ -54,7 +54,7 @@
 <tr>
 <td>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
 
 </td>
 <td>
@@ -77,6 +77,7 @@
 </td>
 </tr>
 </table>
+
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ol1g2195&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
