@@ -37,31 +37,43 @@
 
 ## 📊 Статистика
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; background-color: transparent; width: 100%;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; background-color: transparent;">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="100%">
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
+
 </td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ol1g2195&theme=dark&hide_border=true&background=0D1117&ring=0D1117&fire=0D1117&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%">
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-<img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" width="100%">
+<td>
+  
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
+
 </td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="100%">
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-<img src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Karma&ext=contest&bg_color=0D1117" width="100%">
+<td>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Karma&ext=contest&bg_color=0D1117)
+
 </td>
-<td width="50%">
-<img src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000&hide_border=true&theme=dark&bg_color=0D1117" width="100%">
+<td>
+
+![Codewars](https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000&hide_border=true&theme=dark&bg_color=0D1117)
+
 </td>
 </tr>
 </table>
