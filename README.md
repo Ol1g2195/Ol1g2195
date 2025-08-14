@@ -57,9 +57,9 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" />
 </td>
 <td align="center">
-  <!-- Расширённая GitHub Stats (например, с reviews и merged PRs) -->
+  <!-- GitHub Contributor Stats -->
   <img height="165" width="400"
-       src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" />
+       src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </td>
 </tr>
 <tr>
@@ -69,11 +69,9 @@
        src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
 </td>
 <td align="center">
-  <!-- Codewars бейдж -->
-  <a href="https://www.codewars.com/users/Ol1g2195">
-    <img height="165" width="400"
-         src="https://www.codewars.com/users/Ol1g2195/badges/large" alt="Codewars Badge" />
-  </a>
+  <!-- Codewars кастомный бейдж -->
+  <img height="165" width="400"
+       src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000" alt="Codewars Badge" />
 </td>
 </tr>
 </table>
