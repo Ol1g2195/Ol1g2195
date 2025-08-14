@@ -40,18 +40,40 @@
 <table align="center">
 <tr>
 <td align="center">
-  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Общая статистика -->
+  <img height="165" width="400"
+       src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
 <td align="center">
-  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <!-- Топ языки -->
+  <img height="165" width="400"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </td>
 </tr>
 <tr>
 <td align="center">
-  <img height="165" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Streak -->
+  <img height="165" width="400"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" />
 </td>
 <td align="center">
-  <img height="165" width="400" src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
+  <!-- Расширённая GitHub Stats (например, с reviews и merged PRs) -->
+  <img height="165" width="400"
+       src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <!-- LeetCode карточка -->
+  <img height="165" width="400"
+       src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
+</td>
+<td align="center">
+  <!-- Codewars бейдж -->
+  <a href="https://www.codewars.com/users/Ol1g2195">
+    <img height="165" width="400"
+         src="https://www.codewars.com/users/Ol1g2195/badges/large" alt="Codewars Badge" />
+  </a>
 </td>
 </tr>
 </table>
