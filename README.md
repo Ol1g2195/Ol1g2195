@@ -46,20 +46,20 @@
 </td>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
 
 </td>
 </tr>
 
 <tr>
 <td>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ol1g2195&theme=dark&hide_border=true&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 </td>
 <td>
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=dark&bg_color=0d1117&hide_border=true&combined=true)
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
 
 </td>
 </tr>
