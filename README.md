@@ -53,9 +53,7 @@
 <tr>
 <td align="center" valign="middle" style="background-color: #0D1117;">
 
-<div style="background-color: #0D1117; padding: 10px; display: inline-block; border-radius: 6px;">
-<img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" />
-</div>
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
 
 </td>
 <td align="center" valign="middle" style="background-color: #0D1117;">
@@ -78,6 +76,7 @@
 </td>
 </tr>
 </table>
+
 
 
 <!-- GitHub Trophies -->
