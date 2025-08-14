@@ -37,39 +37,46 @@
 
 ## 📊 Статистика
 
-<table align="center" style="background-color:#1a1b27; border-radius:10px; padding:10px;">
+<table style="border: none; border-collapse: collapse; background-color: transparent;">
 <tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true"
-       width="400" height="165" style="max-width:100%;height:auto;" />
+<td>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
+
 </td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-       width="400" height="165" style="max-width:100%;height:auto;" />
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
 </td>
 </tr>
+
 <tr>
-<td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
-       width="400" height="165" style="max-width:100%;height:auto;" />
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
+
 </td>
-<td align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27"
-       width="400" height="165" style="max-width:100%;height:auto;" />
+<td>
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
+
 </td>
 </tr>
+
 <tr>
-<td align="center">
-  <img src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest"
-       width="400" height="165" style="max-width:100%;height:auto;" />
+<td>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Karma&ext=contest&bg_color=0D1117)
+
 </td>
-<td align="center">
-  <img src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000"
-       width="400" height="165" style="max-width:100%;height:auto;" />
+<td>
+
+![Codewars](https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000&hide_border=true&theme=dark&bg_color=0D1117)
+
 </td>
 </tr>
 </table>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ol1g2195&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
