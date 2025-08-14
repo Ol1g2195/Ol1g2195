@@ -36,48 +36,25 @@
 ---
 
 ## 📊 Статистика
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
+
+<table align="center">
 <tr>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
-
+<td align="center">
+  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
-
+<td align="center">
+  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </td>
 </tr>
-
 <tr>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
-
+<td align="center">
+  <img height="165" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" />
 </td>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Karma&ext=contest&bg_color=0D1117)
-
-</td>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
-![Codewars](https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000&hide_border=true&theme=dark&bg_color=0D1117)
-
+<td align="center">
+  <img height="165" width="400" src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
 </td>
 </tr>
 </table>
-
-
 
 <!-- GitHub Trophies -->
 <p align="center">
