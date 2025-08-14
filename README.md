@@ -35,31 +35,14 @@
 
 ---
 
-## 📊 Статистика
-
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; background-color: transparent; width: 100%;">
+<table style="border: none; border-collapse: collapse; background-color: transparent;">
 <tr>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
+<td>
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
 
 </td>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="middle" style="background-color: #0D1117;">
-
-<div style="background-color: #0D1117; padding: 10px; display: inline-block; border-radius: 6px;">
-<img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" />
-</div>
-
-</td>
-<td align="center" valign="middle" style="background-color: #0D1117;">
+<td>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
@@ -67,12 +50,25 @@
 </tr>
 
 <tr>
-<td align="center" valign="middle" style="background-color: #0D1117;">
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
+
+</td>
+<td>
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Karma&ext=contest&bg_color=0D1117)
 
 </td>
-<td align="center" valign="middle" style="background-color: #0D1117;">
+<td>
 
 ![Codewars](https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000&hide_border=true&theme=dark&bg_color=0D1117)
 
