@@ -35,15 +35,48 @@
 
 ---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
+## 📊 Статистика
+<table style="border: none; border-collapse: collapse; background-color: transparent;">
+<tr>
+<td>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
-</p>
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=react&hide_border=true&background=0D1117)
+
+</td>
+<td>
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Karma&ext=contest&bg_color=0D1117)
+
+</td>
+<td>
+
+![Codewars](https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000&hide_border=true&theme=dark&bg_color=0D1117)
+
+</td>
+</tr>
+</table>
+
 
 <!-- GitHub Trophies -->
 <p align="center">
