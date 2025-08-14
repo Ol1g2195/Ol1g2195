@@ -54,12 +54,12 @@
 <tr>
 <td>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
 
 </td>
 <td>
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=2&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 </td>
 </tr>
