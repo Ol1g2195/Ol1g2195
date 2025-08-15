@@ -16,6 +16,15 @@
 - 💡 Верю в **код как средство творчества**, а не только инструмент  
 - ☕ Моя философия: **меньше багов, больше кофе**  
 
+<p align="left">
+  <!-- WakaTime бейдж -->
+  <img src="https://wakatime.com/badge/user/23514495-4187-4cfe-89d2-d3dcd1e98c08/project/4524cdab-c551-42d8-bfc3-808a6f25683a.svg" alt="WakaTime coding time" />
+
+  <!-- GitHub / профильные бейджи в стиле WakaTime (тонкие, простые) -->  <img src="https://komarev.com/ghpvc/?username=Ol1g2195&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ol1g2195?label=Followers&style=flat-square" alt="GitHub followers" />
+
+</p>
+
 </td>
 <td width="50%" align="center" valign="middle">
 
@@ -23,7 +32,7 @@
 
 </td>
 </tr>
-</table>
+</table
 
 ---
 
@@ -82,13 +91,4 @@
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ol1g2195&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ol1g2195?label=Followers&style=for-the-badge" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Ol1g2195?label=Total%20Stars&style=for-the-badge" alt="GitHub total stars" />
-  <img src="https://img.shields.io/github/last-commit/Ol1g2195/Ol1g2195?style=for-the-badge&color=yellow" alt="Last commit" />
 </p>
