@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true"
        width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
        width="400" height="165" style="max-width:100%;height:auto;" />
 </td>
 </tr>
