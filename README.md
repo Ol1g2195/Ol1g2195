@@ -2,14 +2,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Привет!%20Я%20Олег%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Backend • Web • Mobile • Desktop • Game Developer</h3>
+<h3 align="center" style="margin-top:-20px;">Backend • Web • Mobile • Desktop • Game Developer</h3>
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif" />
-</p>
+### 🛠 Навыки и инструменты
+- 🖥 Backend: Go, Python, Django, FastAPI  
+- 📱 Mobile: Flutter / Dart  
+- 🌐 Frontend: HTML, CSS, JavaScript  
+- 🗄 Базы данных: MySQL, PostgreSQL  
+- 🐳 Docker, Git, CI/CD  
+- 🎮 Unity / C#  
 
-<p align="center"><i>💡 «Код — это поэзия, только для компьютеров»</i></p>
+<i>💡 «Код — это поэзия, только для компьютеров»</i>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
