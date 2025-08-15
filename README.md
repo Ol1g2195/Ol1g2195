@@ -59,20 +59,46 @@
 
 ## 📊 Статистика
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; background-color:#1a1b27; padding:20px; border-radius:15px;">
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
-</p>
+  <!-- Ряд 1 -->
+  <div style="display: flex; justify-content: center; gap:20px;">
+    <div style="flex: 1; max-width:400px; text-align:center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" 
+           style="width:100%; border-radius:10px;" />
+    </div>
+    <div style="flex: 1; max-width:400px; text-align:center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
+           style="width:100%; border-radius:10px;" />
+    </div>
+  </div>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ol1g2195&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+  <!-- Ряд 2 -->
+  <div style="display: flex; justify-content: center; gap:20px;">
+    <div style="flex: 1; max-width:400px; text-align:center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" 
+           style="width:100%; border-radius:10px;" />
+    </div>
+    <div style="flex: 1; max-width:400px; text-align:center;">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27" 
+           style="width:100%; border-radius:10px;" />
+    </div>
+  </div>
+
+  <!-- Ряд 3 -->
+  <div style="display: flex; justify-content: center; gap:20px;">
+    <div style="flex: 1; max-width:400px; text-align:center;">
+      <img src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" 
+           style="width:100%; border-radius:10px;" />
+    </div>
+    <div style="flex: 1; max-width:400px; text-align:center;">
+      <img src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000" 
+           style="width:100%; border-radius:10px;" />
+    </div>
+  </div>
+
+</div>
+
 
 ---
 
