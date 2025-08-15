@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <td align="center" style="padding:10px;">
-  <img src="https://github-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
+  <img src="https://github-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
        width="380" height="165" style="border-radius:10px;" />
 </td>
 <td align="center" style="padding:10px;">
