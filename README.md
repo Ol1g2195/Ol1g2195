@@ -73,7 +73,6 @@
 <tr>
 <td align="center" style="padding:10px;">
   <img src="https://github-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
-       width="380" height="165" style="border-radius:10px;" />
 </td>
 <td align="center" style="padding:10px;">
   <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27"
