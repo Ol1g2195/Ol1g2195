@@ -64,21 +64,23 @@
 <td align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true"
        width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
-</td>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27"
        width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
 </td>
+  
 </tr>
 <tr>
 <td align="center">
   <img src="https://github-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
        width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
 </td>
+</td>
 <td align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
        width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
 </td>
+
 </tr>
 <tr>
 <td align="center">
