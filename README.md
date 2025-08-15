@@ -4,28 +4,27 @@
 
 <h3 align="center" style="margin-top:-20px;">Backend • Web • Mobile • Desktop • Game Developer</h3>
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
 
-### 🛠 Навыки и инструменты
-- 🖥 Backend: Go, Python, Django, FastAPI  
-- 📱 Mobile: Flutter / Dart  
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- 🗄 Базы данных: MySQL, PostgreSQL  
-- 🐳 Docker, Git, CI/CD  
-- 🎮 Unity / C#  
+  <div style="text-align: left; max-width: 400px;">
+    <h3>🛠 Навыки и инструменты</h3>
+    <ul>
+      <li>🖥 Backend: Go, Python, Django, FastAPI</li>
+      <li>📱 Mobile: Flutter / Dart</li>
+      <li>🌐 Frontend: HTML, CSS, JavaScript</li>
+      <li>🗄 Базы данных: MySQL, PostgreSQL</li>
+      <li>🐳 Docker, Git, CI/CD</li>
+      <li>🎮 Unity / C#</li>
+    </ul>
+    <i>💡 «Код — это поэзия, только для компьютеров»</i>
+  </div>
 
-<i>💡 «Код — это поэзия, только для компьютеров»</i>
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
+  </div>
 
-</td>
-<td width="50%" align="center" valign="middle">
+</div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
-
-</td>
-</tr>
-</table>
 
 ---
 
