@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ol1g2195&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ol1g2195&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ol1g2195?label=Followers&style=for-the-badge" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Ol1g2195?label=Total%20Stars&style=for-the-badge" alt="GitHub total stars" />
   <img src="https://img.shields.io/github/last-commit/Ol1g2195/Ol1g2195?style=for-the-badge&color=yellow" alt="Last commit" />
