@@ -59,27 +59,16 @@
 
 ## 📊 Статистика
 
-<table align="center" style="background-color:#1a1b27; border-radius:10px; padding:15px; border-spacing:15px;">
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true"
-       width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
-<td align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27"
-       width="400" height="165" style="max-width:100%;height:auto;" />
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
-       width="400" height="165" style="max-width:100%;height:auto;" />
-</td>
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-       width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
-</td>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
+</p>
+
 
 </tr>
 <tr>
