@@ -59,32 +59,38 @@
 
 ## 📊 Статистика
 
-<div align="center" style="
-    display: grid;
-    grid-template-columns: repeat(2, 400px);
-    grid-auto-rows: 165px;
-    gap: 20px;
-    background-color:#1a1b27;
-    padding:20px;
-    border-radius:15px;
-">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true" 
-       style="width:100%; height:100%; border-radius:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
-       style="width:100%; height:100%; border-radius:10px;" />
-
-  <img src="https://github-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true" 
-       style="width:100%; height:100%; border-radius:10px;" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27" 
-       style="width:100%; height:100%; border-radius:10px;" />
-
-  <img src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" 
-       style="width:100%; height:100%; border-radius:10px;" />
-  <img src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000" 
-       style="width:100%; height:100%; border-radius:10px;" />
-
-</div>
+<table align="center" style="background-color:#1a1b27; border-radius:10px; padding:10px;">
+<tr>
+<td align="center" style="padding:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ol1g2195&show_icons=true&theme=tokyonight&hide_border=true"
+       width="380" height="165" style="border-radius:10px;" />
+</td>
+<td align="center" style="padding:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ol1g2195&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+       width="380" height="165" style="border-radius:10px;" />
+</td>
+</tr>
+<tr>
+<td align="center" style="padding:10px;">
+  <img src="https://github-streak-stats.herokuapp.com/?user=Ol1g2195&theme=tokyonight&hide_border=true"
+       width="380" height="165" style="border-radius:10px;" />
+</td>
+<td align="center" style="padding:10px;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ol1g2195&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1b27"
+       width="380" height="165" style="border-radius:10px;" />
+</td>
+</tr>
+<tr>
+<td align="center" style="padding:10px;">
+  <img src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest"
+       width="380" height="165" style="border-radius:10px;" />
+</td>
+<td align="center" style="padding:10px;">
+  <img src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000"
+       width="380" height="165" style="border-radius:10px;" />
+</td>
+</tr>
+</table>
 
 ---
 
