@@ -1,21 +1,22 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Привет!%20Я%20Олег%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center" style="margin-top:-30px;">Backend • Web • Mobile • Desktop • Game Developer</h3>
+<h3 align="center" style="margin-top:-50px;">Backend • Web • Mobile • Desktop • Game Developer</h3>
 
-<table align="center" width="80%">
+<table align="center" width="80%" style="border-collapse: collapse;">
 <tr>
-<td width="50%" align="left" valign="middle">
+<td width="50%" align="left" valign="top">
 
 ### 🛠 Навыки и инструменты
 - 🖥 Backend: Go, Python, Django, FastAPI  
+- ☕ Desktop/Enterprise: Java, C#  
 - 📱 Mobile: Flutter / Dart  
-- 🌐 Frontend: HTML, CSS, JavaScript  
+- 🌐 Frontend: HTML, CSS, JavaScript, REST API  
 - 🗄 Базы данных: MySQL, PostgreSQL  
-- 🐳 Docker, Git, CI/CD  
+- 🐳 Docker, Git, CI/CD, Kafka  
 - 🎮 Unity / C#  
+- 🐘 PHP и CMS (при необходимости)  
 
 <i>💡 «Код — это поэзия, только для компьютеров»</i>
 
@@ -76,17 +77,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ol1g2195&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
-## 🚀 О себе
-- 🖥 Разрабатываю **backend-сервисы** на Go, Python, Django, FastAPI  
-- ☕ Создаю **desktop и enterprise-приложения** на Java и C#  
-- 📱 Пишу **мобильные приложения** на Flutter/Dart  
-- 🌐 Делаю **веб-приложения** с HTML, CSS, JavaScript и REST API  
-- 🗄 Работаю с **MySQL** и **PostgreSQL**  
-- 🐳 Использую **Docker** для контейнеризации  
-- 🎮 Разрабатываю игры на **Unity** (C#)  
-- 🔧 Уверенно владею **Git**, CI/CD и системами очередей (**Kafka**)  
-- 🐘 Иногда работаю с PHP и CMS  
 
 ---
 
