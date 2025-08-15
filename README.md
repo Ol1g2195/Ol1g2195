@@ -1,7 +1,15 @@
-<h1 align="center">
-  Привет, я <a href="https://github.com/Ol1g2195">Олег</a> 👋
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Привет!%20Я%20Олег%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">Backend • Web • Mobile • Desktop • Game Developer</h3>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif" />
+</p>
+
+<p align="center"><i>💡 «Код — это поэзия, только для компьютеров»</i></p>
 
 ---
 
