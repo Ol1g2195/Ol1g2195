@@ -4,9 +4,9 @@
 
 <h3 align="center" style="margin-top:-20px;">Backend • Web • Mobile • Desktop • Game Developer</h3>
 
-<table>
+<table align="center" width="80%">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="left" valign="middle">
 
 ### 🛠 Навыки и инструменты
 - 🖥 Backend: Go, Python, Django, FastAPI  
