@@ -69,20 +69,6 @@
   <img height="165" src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
 </p>
 
-
-</tr>
-<tr>
-<td align="center">
-  <img src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest"
-       width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
-</td>
-<td align="center">
-  <img src="https://github.r2v.ch/codewars?user=Ol1g2195&stroke=%23FF0000"
-       width="380" height="165" style="border-radius:10px; max-width:100%; height:auto;" />
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📫 Контакты
