@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Привет!%20Я%20Олег%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Привет!%20Я%20Олег%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center" style="margin-top:-50px;">Backend • Web • Mobile • Desktop • Game Developer</h3>
