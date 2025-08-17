@@ -78,7 +78,6 @@
   <img height="165" src="https://leetcard.jacoblin.cool/Ol1g?theme=dark&font=Roboto&ext=contest" />
 </div>
 
-
 ---
 
 ## 📫 Контакты
