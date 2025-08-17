@@ -19,6 +19,7 @@
 <p align="left">
   
   <img src="https://wakatime.com/badge/user/23514495-4187-4cfe-89d2-d3dcd1e98c08/project/4524cdab-c551-42d8-bfc3-808a6f25683a.svg" alt="WakaTime coding time" />
+  <img src="https://komarev.com/ghpvc/?username=Ol1g2195&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ol1g2195?label=Followers&style=flat-square" alt="GitHub followers" />
 
 </p>
